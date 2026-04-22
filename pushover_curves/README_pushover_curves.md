@@ -16,7 +16,6 @@ Damage states are defined based on inter-story drift ratio (IDR) thresholds from
 | `pushover_backbone.csv` | 5-point idealized backbone curves for all 80 buildings × 2 directions |
 | `damage_state_thresholds.csv` | Roof displacement thresholds at DS1–DS4 for all 80 buildings × 2 directions |
 | `modal_properties.csv` | Modal properties (period, mode shape, participation factors) for 4 modes per building |
-| `export_to_csv.m` | MATLAB script used to generate the three CSV files above |
 
 ---
 
