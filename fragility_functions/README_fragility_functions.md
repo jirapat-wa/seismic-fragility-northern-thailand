@@ -1,11 +1,16 @@
 # Fragility Functions
 
 ## Overview
-This folder contains seismic fragility functions for **18 groups** of low-rise masonry-infilled RC frame buildings (HAZUS C3 type) in Chiang Mai, Thailand.
 
-Fragility functions were derived using **Multiple Stripe Analysis (MSA)** + **Uncoupled Modal Response History Analysis (UMRHA)** + **Maximum Likelihood Estimation (MLE)** following the methodology of Jalayer et al. (2015).
+This folder contains the seismic fragility functions for **18 building groups** representing low-rise masonry-infilled RC frame buildings (HAZUS C3 pre-code classification) in Chiang Mai, Thailand.
 
-Each group has fragility functions for **2 intensity measures** (PGA and Sa(T1)) × **4 damage states** = 8 fragility curves per group.
+Fragility functions are expressed as lognormal cumulative distribution functions:
+
+$$P(DS \geq ds_i \mid IM = x) = \Phi\left[\frac{\ln(x/\theta)}{\beta}\right]$$
+
+where **θ** is the median IM capacity and **β** is the total log-standard deviation.
+
+Parameters were estimated using Maximum Likelihood Estimation (MLE) applied to demand data from Multiple Stripe Analysis (MSA) with 35 ground motion stripes.
 
 ---
 
@@ -13,91 +18,87 @@ Each group has fragility functions for **2 intensity measures** (PGA and Sa(T1))
 
 | File | Description |
 |------|-------------|
-| `fragility_groups.csv` | Definition of the 18 building groups (geometry, infill ratio, era) |
-| `fragility_parameters.csv` | Lognormal parameters θ and β for all 18 groups × 2 IMs × 4 DS |
-| `fragility_PGA.csv` | Scatter-point fragility curves vs. PGA (GEM format) |
-| `fragility_Sa.csv` | Scatter-point fragility curves vs. Sa(T1) (GEM format) |
+| `fragility_groups.csv` | Definition of 18 fragility groups (occupancy type, stories, HAZUS class, representative models) |
+| `fragility_parameters.csv` | Lognormal fragility parameters (θ, β) for all groups × 2 IMs × 4 damage states |
 
 ---
 
 ## Column Descriptions
 
-### fragility_PGA.csv / fragility_Sa.csv (GEM-compatible scatter format)
+### fragility_groups.csv
 
-| Column | Unit | Description |
-|--------|------|-------------|
-| `group_id` | — | Fragility group identifier (G01–G18) |
-| `imt` | — | Intensity measure type: `PGA` or `Sa(T1)` |
-| `iml` | g | Intensity measure level |
-| `damage_state` | — | Damage state: DS1 (Slight), DS2 (Moderate), DS3 (Extensive), DS4 (Complete) |
-| `poe` | — | Probability of exceedance of the damage state at this IML (0–1) |
-| `theta` | g | Median of the lognormal fragility function |
-| `beta` | — | Log-standard deviation (dispersion) |
-| `n_buildings_in_group` | — | Number of archetype buildings contributing to this group |
-| `notes` | — | Additional notes |
+| Column | Description |
+|--------|-------------|
+| `group_id` | Group identifier (e.g., RES1-H1, COM-H2) |
+| `occupancy_type` | Occupancy class: Single Family, Multifamily, Commercial, Office, Educational |
+| `n_stories` | Number of stories |
+| `hazus_class` | HAZUS sub-class: C3L (1–3 stories) or C3M (4–7 stories) |
+| `n_models` | Number of representative building models in the group |
+| `representative_model_ids` | Building model IDs used to derive group-level fragility |
 
-### fragility_parameters.csv (compact summary)
+### fragility_parameters.csv
 
 | Column | Unit | Description |
 |--------|------|-------------|
 | `group_id` | — | Fragility group identifier |
-| `imt` | — | Intensity measure type |
-| `damage_state` | — | Damage state label |
-| `theta` | g | Median fragility parameter |
-| `beta` | — | Dispersion parameter |
-| `n_buildings_in_group` | — | Number of archetypes |
-| `method` | — | Fitting method (MLE) |
+| `imt` | — | Intensity measure type: `PGA` (g) or `SA(T1)` (g) |
+| `damage_state` | — | Damage state: Slight, Moderate, Extensive, Complete |
+| `theta` | g | Median IM capacity |
+| `beta` | — | Total log-standard deviation (dispersion) |
+
+---
+
+## Fragility Groups
+
+18 groups are defined by occupancy type and number of stories:
+
+| Group ID | Occupancy | Stories | HAZUS Class | No. Models |
+|----------|-----------|---------|-------------|------------|
+| RES1-H1 | Single Family | 1 | C3L | 8 |
+| RES1-H2 | Single Family | 2 | C3L | 8 |
+| RES3-H1 | Multifamily | 1 | C3L | 4 |
+| RES3-H2 | Multifamily | 2 | C3L | 4 |
+| RES3-H3 | Multifamily | 3 | C3L | 4 |
+| RES3-H4 | Multifamily | 4 | C3M | 4 |
+| RES3-H5 | Multifamily | 5 | C3M | 4 |
+| RES3-H7 | Multifamily | 7 | C3M | 4 |
+| COM-H1 | Commercial | 1 | C3L | 4 |
+| COM-H2 | Commercial | 2 | C3L | 4 |
+| COM-H3 | Commercial | 3 | C3L | 4 |
+| OFF-H1 | Office | 1 | C3L | 4 |
+| OFF-H2 | Office | 2 | C3L | 4 |
+| OFF-H3 | Office | 3 | C3L | 4 |
+| EDU-H1 | Educational | 1 | C3L | 4 |
+| EDU-H2 | Educational | 2 | C3L | 4 |
+| EDU-H3 | Educational | 3 | C3L | 4 |
+| EDU-H4 | Educational | 4 | C3M | 4 |
 
 ---
 
 ## Damage State Definitions
 
-| Damage State | Label | Physical Description |
-|---|---|---|
-| DS1 | Slight | First cracking of masonry infill panels |
-| DS2 | Moderate | Significant cracking; reduction of infill in-plane stiffness |
-| DS3 | Extensive | Partial out-of-plane collapse of infill; minor structural damage |
-| DS4 | Complete | Structural collapse or imminent collapse |
+Damage states follow the HAZUS pre-code C3 classification, defined by inter-story drift ratio (IDR) thresholds:
+
+| Damage State | Label | IDR Threshold C3L | IDR Threshold C3M |
+|:---:|---|:---:|:---:|
+| DS1 | Slight | 0.200% | 0.134% |
+| DS2 | Moderate | 0.500% | 0.335% |
+| DS3 | Extensive | 1.200% | 0.804% |
+| DS4 | Complete | 2.800% | 1.876% |
 
 ---
 
 ## Intensity Measures
 
-| IMT | Symbol | Period | Notes |
-|-----|--------|--------|-------|
-| Peak Ground Acceleration | PGA | — | Suitable for low-rise buildings |
-| Spectral Acceleration | Sa(T1) | Median T1 per group | Better IM for dynamic response |
+Two IMs are provided:
+
+- **PGA** (Peak Ground Acceleration, in g): suitable for low-rise buildings and regional loss applications
+- **SA(T1)** (Spectral Acceleration at fundamental period T1, in g): the primary IM used in the MSA/MLE analysis, providing lower dispersion for taller buildings
+
+The fundamental period T1 for each building is recorded in `pushover_curves/modal_properties.csv` (mode 1x).
 
 ---
 
-## How to Reproduce the Fragility Curves
+## Funding
 
-Given θ (theta) and β (beta), the probability of exceedance at IM level *x* is:
-
-```
-PoE(DS | IM = x) = Φ[ ln(x/θ) / β ]
-```
-
-Where Φ is the standard normal CDF.
-
-**MATLAB example:**
-```matlab
-theta = 0.182; beta = 0.521;
-IM = 0:0.01:2.0;
-PoE = normcdf(log(IM./theta) ./ beta);
-plot(IM, PoE)
-```
-
-**Python example:**
-```python
-import numpy as np
-from scipy.stats import norm
-theta, beta = 0.182, 0.521
-IM = np.linspace(0.01, 2.0, 200)
-PoE = norm.cdf(np.log(IM / theta) / beta)
-```
-
----
-
-## Reference
-Jalayer, F., Ebrahimian, H., Miano, A., Manfredi, G., & Sezen, H. (2017). Analytical fragility assessment using unscaled ground motion records. *Earthquake Engineering & Structural Dynamics*, 46(15), 2639–2663.
+This work was supported by the National Research Council of Thailand (NRCT), grant number N25A680575, under the project "Development of a catastrophe model for evaluating seismic losses and impacts in Chiang Mai and Chiang Rai."
