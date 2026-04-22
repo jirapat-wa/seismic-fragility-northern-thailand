@@ -1,0 +1,5 @@
+building_id,direction,DS1_slight_m,DS2_moderate_m,DS3_extensive_m,DS4_complete_m,DS1_note,DS2_note,DS3_note,DS4_note
+B001,X,0.0060,0.0150,0.0310,0.0480,Cracking of infill,Significant cracking,Partial collapse of infill,Structural collapse
+B001,Y,0.0055,0.0140,0.0290,0.0450,Cracking of infill,Significant cracking,Partial collapse of infill,Structural collapse
+B002,X,0.0065,0.0160,0.0330,0.0510,Cracking of infill,Significant cracking,Partial collapse of infill,Structural collapse
+B002,Y,0.0060,0.0150,0.0310,0.0480,Cracking of infill,Significant cracking,Partial collapse of infill,Structural collapse

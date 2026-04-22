@@ -1,0 +1,351 @@
+﻿NO,NGA,Scale_Fac,D5_75sec,D5_95sec,Evnt_Name,Year,Station,Mw,Mechanism,Rrup_km,Vs30,CMS_sec,Return_Period,gm00xx,Nick_Name
+1,12974,0.83,3.2,5.4," ""30226086""",2003," ""Healdsburg; Fire Station""",4, strike slip,7.65,377.93,0.2,43,gm001,CMS0.2s_43years_gm001
+2,12991,0.61,1.9,4," ""21305648""",2003," ""Albany; Fire Station No. 1""",4, strike slip,12.13,299.37,0.2,43,gm002,CMS0.2s_43years_gm002
+3,13714,2.02,3.2,8," ""40219867""",2008," ""Lake Crowley - Hwy 395 Bridge""",3.9, Normal Oblique,13.02,305.35,0.2,43,gm003,CMS0.2s_43years_gm003
+4,14108,1.41,3.5,7.5," ""21549695""",2006," ""Ramage Ranch_ Paso Robles_ CA_ USA""",3.8, strike slip,12.02,300,0.2,43,gm004,CMS0.2s_43years_gm004
+5,14926,0.68,3.9,9.7," ""21549979""",2006," ""Hollister - South & Pine""",3.7, strike slip,5.32,282.14,0.2,43,gm005,CMS0.2s_43years_gm005
+6,15393,2.35,2.5,7.4," ""14376612""",2008," ""Colton_ Grape St. and W. Mill""",3.99, strike slip,16.15,267.92,0.2,43,gm006,CMS0.2s_43years_gm006
+7,15655,3.97,5.6,11.4," ""9915709""",2003," ""Thermal Airport""",3.87, strike slip,19.82,217.84,0.2,43,gm007,CMS0.2s_43years_gm007
+8,18439,2.99,9.9,23.8," ""21423530""",2004," ""Parkfield - Gold Hill 1W""",4.17, strike slip,19.59,214.43,0.2,43,gm008,CMS0.2s_43years_gm008
+9,18446,3.31,4.2,8.1," ""21438324""",2005," ""Hog Canyon""",3.54, strike slip,13.04,376,0.2,43,gm009,CMS0.2s_43years_gm009
+10,18800,1.31,5.4,10.1," ""71336726""",2010," ""Davis St._ Fremont_ CA""",4.05, strike slip,19.08,271.26,0.2,43,gm0010,CMS0.2s_43years_gm0010
+11,SANA,2.8,,,Chiang Mai ,2022,SANA,4.1, strike slip,10,300,0.2,100,gm001,CMS0.2s_100years_gm001
+12,99,0.39,3.6,10.9," ""Hollister-03""",1974," ""Hollister City Hall""",5.14, strike slip,9.39,198.77,0.2,100,gm002,CMS0.2s_100years_gm002
+13,229,0.66,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.2,100,gm003,CMS0.2s_100years_gm003
+14,2020,0.27,2.2,6.1," ""Gilroy""",2002," ""Gilroy Array #3""",4.9, strike slip,9.77,349.85,0.2,100,gm004,CMS0.2s_100years_gm004
+15,2057,1.51,4.3,10.9," ""Yorba Linda""",2002," ""La Habra""",4.265, strike slip,17.35,331.73,0.2,100,gm005,CMS0.2s_100years_gm005
+16,9630,4,3.2,13.5," ""10410337""",2009," ""Los Angeles""",4.7, strike slip,17.6,307.46,0.2,100,gm006,CMS0.2s_100years_gm006
+17,10837,1.84,3.3,10.1," ""14312160""",2007," ""Jensen Filter Plant""",4.66, Reverse,12.48,373.07,0.2,100,gm007,CMS0.2s_100years_gm007
+18,11085,1.17,5.2,9.3," ""21530368""",2006," ""Sonoma""",4.5, strike slip,14.01,364.45,0.2,100,gm008,CMS0.2s_100years_gm008
+19,11503,1.4,3.2,6.5," ""10275733""",2007," ""Corona""",4.73, strike slip,18.67,354.82,0.2,100,gm009,CMS0.2s_100years_gm009
+20,18496,3.44,1.8,8.4," ""51182151""",2007," ""Parkfield - Cholame 5W""",4.01, strike slip,21.11,236.59,0.2,100,gm0010,CMS0.2s_100years_gm0010
+21,374,1.4,3.7,6," ""Coalinga-02""",1983," ""Burnett Construction""",5.09, Reverse,17.4,352.2,0.2,225,gm001,CMS0.2s_225years_gm001
+22,397,0.7,2.2,7.3," ""Coalinga-04""",1983," ""Coalinga-14th""",5.18, Reverse,13.88,286.41,0.2,225,gm002,CMS0.2s_225years_gm002
+23,2026,2.58,7.6,24.1," ""Gilroy""",2002," ""Hollister - South & Pine""",4.9, strike slip,22.88,282.14,0.2,225,gm003,CMS0.2s_225years_gm003
+24,3691,0.61,1,10.4," ""Whittier Narrows-02""",1987," ""Buena Park - La Palma""",5.27, Reverse Oblique,25.42,270.96,0.2,225,gm004,CMS0.2s_225years_gm004
+25,3692,1.25,5.8,11.8," ""Whittier Narrows-02""",1987," ""Burbank - N Buena Vista""",5.27, Reverse Oblique,25.98,320.57,0.2,225,gm005,CMS0.2s_225years_gm005
+26,3697,2.76,7.6,12.3," ""Whittier Narrows-02""",1987," ""Carson - Water St""",5.27, Reverse Oblique,29.09,160.58,0.2,225,gm006,CMS0.2s_225years_gm006
+27,3700,2.04,6.9,13.1," ""Whittier Narrows-02""",1987," ""Covina - W Badillo""",5.27, Reverse Oblique,20.06,324.79,0.2,225,gm007,CMS0.2s_225years_gm007
+28,9560,0.79,4.7,11.8," ""10410337""",2009," ""Torrance""",4.7, strike slip,13.82,319.92,0.2,225,gm008,CMS0.2s_225years_gm008
+29,9573,2.66,3.2,9.9," ""10410337""",2009," ""Inglewood""",4.7, strike slip,10.58,371.97,0.2,225,gm009,CMS0.2s_225years_gm009
+30,10863,2.6,4.2,13.4," ""14312160""",2007," ""Canoga Park""",4.66, Reverse,12,285.93,0.2,225,gm0010,CMS0.2s_225years_gm0010
+31,416,1.02,0.6,7.3," ""Coalinga-06""",1983," ""Coalinga-14th""",4.89, Reverse,7.97,286.41,0.2,475,gm001,CMS0.2s_475years_gm001
+32,493,2.52,3,5.6," ""Drama_ Greece""",1985," ""Drama""",5.2, Normal Oblique,11.61,324.55,0.2,475,gm002,CMS0.2s_475years_gm002
+33,562,1.33,3.6,16.2," ""Chalfant Valley-04""",1986," ""Bishop""",5.44, strike slip,23.99,303.47,0.2,475,gm003,CMS0.2s_475years_gm003
+34,1670,1.4,3.6,7.4," ""Northridge-03""",1994," ""Newhall - Fire Sta""",5.2, Reverse,7.65,269.14,0.2,475,gm004,CMS0.2s_475years_gm004
+35,1706,2.79,7.3,14.9," ""Northridge-06""",1994," ""LA - Baldwin Hills""",5.28, Reverse,23.94,297.07,0.2,475,gm005,CMS0.2s_475years_gm005
+36,8623,2.13,5.6,13," ""40204628""",2007," ""San Jose""",5.45, strike slip,17.66,282.81,0.2,475,gm006,CMS0.2s_475years_gm006
+37,8654,3.13,10.8,26.5," ""40204628""",2007," ""Sunnyvale""",5.45, strike slip,21.87,348.66,0.2,475,gm007,CMS0.2s_475years_gm007
+38,10846,2.99,2.7,11.3," ""14312160""",2007," ""Northridge""",4.66, Reverse,8.44,308.76,0.2,475,gm008,CMS0.2s_475years_gm008
+39,10852,2.06,1.4,5," ""14312160""",2007," ""Newhall - Fire Sta""",4.66, Reverse,11.52,269.14,0.2,475,gm009,CMS0.2s_475years_gm009
+40,12055,3.71,2.7,6.1," ""14116972""",2005," ""San Bernardino""",4.42, strike slip,8.48,251.443,0.2,475,gm0010,CMS0.2s_475years_gm0010
+41,257,2.01,3.5,10.9," ""Mammoth Lakes-08""",1980," ""Cashbaugh (CBR)""",4.8, strike slip,9.64,337.6,0.2,975,gm001,CMS0.2s_975years_gm001
+42,311,1.87,3.8,13.7," ""Taiwan SMART1(5)""",1981," ""SMART1 O01""",5.9, Reverse,28.31,267.67,0.2,975,gm002,CMS0.2s_975years_gm002
+43,396,1.61,4.5,8.8," ""Coalinga-04""",1983," ""Burnett Construction""",5.18, Reverse,14.79,352.2,0.2,975,gm003,CMS0.2s_975years_gm003
+44,543,2.97,5.7,18.5," ""Chalfant Valley-01""",1986," ""Benton""",5.77, strike slip,24.33,370.94,0.2,975,gm004,CMS0.2s_975years_gm004
+45,1681,1.8,3.5,10," ""Northridge-04""",1994," ""Moorpark - Fire Sta""",5.93, Reverse Oblique,15.43,341.58,0.2,975,gm005,CMS0.2s_975years_gm005
+46,3561,1.33,3.2,11.5," ""Taiwan SMART1(5)""",1981," ""SMART1 M02""",5.9, Reverse,27.12,306.78,0.2,975,gm006,CMS0.2s_975years_gm006
+47,3628,2.92,6.6,11.4," ""Taiwan SMART1(33)""",1985," ""SMART1 O04""",5.8, Normal,39.75,288.24,0.2,975,gm007,CMS0.2s_975years_gm007
+48,3731,3.09,4.8,9.5," ""Whittier Narrows-02""",1987," ""Pacoima Kagel""",5.27, Reverse Oblique,36.79,323.76,0.2,975,gm008,CMS0.2s_975years_gm008
+49,8771,1.76,9.9,22.28," ""14383980""",2008," ""Barre Substation""",5.39, Reverse Oblique,26.25,265.59,0.2,975,gm009,CMS0.2s_975years_gm009
+50,9552,2.54,0.6,8.5," ""10410337""",2009," ""Los Angeles""",4.7, strike slip,12.71,248.85,0.2,975,gm0010,CMS0.2s_975years_gm0010
+51,314,2.6,3.6,8.8," ""Westmorland""",1981," ""Brawley Airport""",5.9, strike slip,15.41,208.71,0.2,2475,gm001,CMS0.2s_2475years_gm001
+52,499,3.19,8.4,20.6," ""Hollister""",1986," ""Hollister Differential""",5.45, strike slip,14.11,215.54,0.2,2475,gm002,CMS0.2s_2475years_gm002
+53,627,1.94,3.9,14.4," ""Whittier Narrows""",1987," ""LA - Baldwin Hills""",5.99, Reverse Oblique,25.94,297.07,0.2,2475,gm003,CMS0.2s_2475years_gm003
+54,695,1.34,2.9,8.8," ""Whittier Narrows""",1987," ""Sun Valley - Roscoe Blvd""",5.99, Reverse Oblique,34.99,320.93,0.2,2475,gm004,CMS0.2s_2475years_gm004
+55,930,2.45,11.7,22," ""Big Bear""",1992," ""San Bernardino""",6.46, strike slip,33.79,325.83,0.2,2475,gm005,CMS0.2s_2475years_gm005
+56,947,3.32,9.8,17.8," ""Northridge""",1994," ""Arcadia - Arcadia""",6.69, Reverse,39.73,330.5,0.2,2475,gm006,CMS0.2s_2475years_gm006
+57,1750,1.3,3.4,17.6," ""Northwest China""",1997," ""Jiashi""",5.93, Normal,37.26,240.09,0.2,2475,gm007,CMS0.2s_2475years_gm007
+58,3572,1.51,2.4,11.9," ""Taiwan """,1981," ""SMART1 O03""",5.9, Reverse,26.55,278.32,0.2,2475,gm008,CMS0.2s_2475years_gm008
+59,4276,3.38,3.4,7.9," ""Friuli Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,0.2,2475,gm009,CMS0.2s_2475years_gm009
+60,8660,3.94,6,19.7," ""40204628""",2007," ""Santa Clara""",5.45, strike slip,19.49,273.32,0.2,2475,gm0010,CMS0.2s_2475years_gm0010
+61,96,1.71,2.8,8.1," ""Managua_ Nicaragua-02""",1972," ""Managua""",5.2, strike slip,4.98,288.77,0.2,5000,gm001,CMS0.2s_5000years_gm001
+62,149,2.18,11,," ""Coyote Lake""",1979," ""Gilroy Array #4""",5.74, strike slip,5.7,221.78,0.2,5000,gm002,CMS0.2s_5000years_gm002
+63,191,2.1,11.3,34.3," ""Imperial Valley-06""",1979," ""Victoria""",6.53, strike slip,31.92,242.05,0.2,5000,gm003,CMS0.2s_5000years_gm003
+64,367,1.59,5.3,11.6," ""Coalinga-01""",1983," ""Pleasant Valley""",6.36, Reverse,8.41,257.38,0.2,5000,gm004,CMS0.2s_5000years_gm004
+65,406,1.11,8.5,," ""Coalinga-05""",1983," ""Coalinga-14th & Elm (Old CHP)""",5.77, Reverse,10.78,286.41,0.2,5000,gm005,CMS0.2s_5000years_gm005
+66,629,2.73,6.3,17," ""Whittier Narrows-01""",1987," ""LA - Century City""",5.99, Reverse Oblique,29.89,277.98,0.2,5000,gm006,CMS0.2s_5000years_gm006
+67,992,1.97,8.4,15.5," ""Northridge-01""",1994," ""LA Vernon Ave""",6.69, Reverse,36.75,283.14,0.2,5000,gm007,CMS0.2s_5000years_gm007
+68,1707,3.33,3.9,8.7," ""Northridge-06""",1994," ""LA - Century City""",5.28, Reverse,19.72,277.98,0.2,5000,gm008,CMS0.2s_5000years_gm008
+69,1752,1.32,3,13.5," ""Northwest China-03""",1997," ""Jiashi""",6.1, Normal,17.73,240.09,0.2,5000,gm009,CMS0.2s_5000years_gm009
+70,4120,2.17,6.4,12.5," ""Parkfield-02_ CA""",2004," ""Parkfield - Gold Hill""",6, strike slip,3.38,290.5,0.2,5000,gm0010,CMS0.2s_5000years_gm0010
+71,13201,3.91,6.7,15.3," ""10223765""",2006," ""La Quinta""",4.11, strike slip,26.09,360.32,0.3,43,gm001,CMS0.3s_43years_gm001
+72,14108,2.94,3.5,7.5," ""21549695""",2006," ""Ramage Ranch""",3.8, strike slip,12.02,300,0.3,43,gm002,CMS0.3s_43years_gm002
+73,14179,3.41,9.9,19.8," ""9968525""",2003," ""Los Alamos County Park""",3.69, strike slip,22.35,259,0.3,43,gm003,CMS0.3s_43years_gm003
+74,14924,1.49,4.4,9.4," ""21549979""",2006," ""Hollister""",3.7, strike slip,6.93,288.67,0.3,43,gm004,CMS0.3s_43years_gm004
+75,15189,3.87,1.1,4.9," ""14239184""",2006," ""Riverside Surface""",3.9, Normal Oblique,25.62,360,0.3,43,gm005,CMS0.3s_43years_gm005
+76,15261,2.46,1.8,7.3," ""10249565""",2007," ""Colton""",3.86, strike slip,18.58,267.92,0.3,43,gm006,CMS0.3s_43years_gm006
+77,18436,2.19,4.7,14.2," ""21423530""",2004," ""Parkfield""",4.17, strike slip,30.94,173.02,0.3,43,gm007,CMS0.3s_43years_gm007
+78,18437,1.67,6.8,16.5," ""21423530""",2004," ""Parkfield""",4.17, strike slip,27.98,178.27,0.3,43,gm008,CMS0.3s_43years_gm008
+79,18789,3.36,6.1,15," ""71336726""",2010," ""Lake Pillsbury""",4.05, strike slip,27.36,260.4,0.3,43,gm009,CMS0.3s_43years_gm009
+80,21503,2.9,0.5,2.1," ""51177103""",2006," ""San Francisco""",3.6, strike slip,18.66,238.66,0.3,43,gm0010,CMS0.3s_43years_gm0010
+81,12574,2.67,2.6,8.9," ""51207740""",2008," ""Alameda""",4.1, strike slip,28.59,207.92,0.3,100,gm001,CMS0.3s_100years_gm001
+82,12837,2.81,2.7,5.5," ""14073800""",2004," ""Cactus City""",4.02, strike slip,14.52,370,0.3,100,gm002,CMS0.3s_100years_gm002
+83,12991,2.38,1.9,4," ""21305648""",2003," ""Albany""",4, strike slip,12.13,299.37,0.3,100,gm003,CMS0.3s_100years_gm003
+84,14924,2.66,4.4,9.4," ""21549979""",2006," ""Hollister""",3.7, strike slip,6.93,288.67,0.3,100,gm004,CMS0.3s_100years_gm004
+85,18436,3.91,4.7,14.2," ""21423530""",2004," ""Parkfield""",4.17, strike slip,30.94,173.02,0.3,100,gm005,CMS0.3s_100years_gm005
+86,18495,3.49,3.3,6.2," ""51182151""",2007," ""Parkfield""",4.01, strike slip,15.07,308.87,0.3,100,gm006,CMS0.3s_100years_gm006
+87,18503,1.73,1.9,4.4," ""51182151""",2007," ""Parkfield""",4.01, strike slip,8.8,308.84,0.3,100,gm007,CMS0.3s_100years_gm007
+88,18760,2.57,0.6,3.7," ""71336726""",2010," ""Mountain View""",4.05, strike slip,26.73,286.85,0.3,100,gm008,CMS0.3s_100years_gm008
+89,18917,3.8,2.4,4.7," ""71337451""",2010," ""Longford""",3.73, Reverse Oblique,14.44,290.17,0.3,100,gm009,CMS0.3s_100years_gm009
+90,21410,1.33,4.1,5.8," ""51207740""",2008," ""San Leandro Hills""",4.1, strike slip,22.17,378,0.3,100,gm0010,CMS0.3s_100years_gm0010
+91,99,0.66,3.6,10.9," ""Hollister-03""",1974," ""Hollister City Hall""",5.14, strike slip,9.39,198.77,0.3,225,gm001,CMS0.3s_225years_gm001
+92,111,3.16,2.6,5.9," ""Oroville-04""",1975," ""Up & Down Cafe""",4.37, Normal Oblique,12.18,377.25,0.3,225,gm002,CMS0.3s_225years_gm002
+93,197,2.29,2.3,5.3," ""Imperial Valley-07""",1979," ""El Centro Array""",5.01, strike slip,24.84,237.33,0.3,225,gm003,CMS0.3s_225years_gm003
+94,204,0.41,1,6.5," ""Imperial Valley-07""",1979," ""El Centro Array""",5.01, strike slip,10.37,203.22,0.3,225,gm004,CMS0.3s_225years_gm004
+95,252,0.59,1.4,8.2," ""Mammoth Lakes-07""",1980," ""Green Church""",4.73, strike slip,5.17,353.2,0.3,225,gm005,CMS0.3s_225years_gm005
+96,396,0.78,4.5,8.8," ""Coalinga-04""",1983," ""Burnett Construction""",5.18, Reverse,14.79,352.2,0.3,225,gm006,CMS0.3s_225years_gm006
+97,6111,3.01,4.2,9.9," ""Yorba Linda""",2002," ""Pomona""",4.265, strike slip,16.8,368.88,0.3,225,gm007,CMS0.3s_225years_gm007
+98,9590,0.8,1,3.4," ""10410337""",2009," ""Long Beach""",4.7, strike slip,18.89,270.56,0.3,225,gm008,CMS0.3s_225years_gm008
+99,10845,2.09,0.8,3.8," ""14312160""",2007," ""Santa Monica""",4.66, Reverse,32.44,367.76,0.3,225,gm009,CMS0.3s_225years_gm009
+100,10871,3.92,3.6,11," ""14312160""",2007," ""Piru - Church St""",4.66, Reverse,19.83,371.58,0.3,225,gm0010,CMS0.3s_225years_gm0010
+101,204,0.66,1,6.5," ""Imperial Valley-07""",1979," ""El Centro Array #6""",5.01, strike slip,10.37,203.22,0.3,475,gm001,CMS0.3s_475years_gm001
+102,229,2.35,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.3,475,gm002,CMS0.3s_475years_gm002
+103,396,1.27,4.5,8.8," ""Coalinga-04""",1983," ""Burnett Construction""",5.18, Reverse,14.79,352.2,0.3,475,gm003,CMS0.3s_475years_gm003
+104,556,3.52,7,11.5," ""Chalfant Valley-02""",1986," ""McGee Creek""",6.19, strike slip,30.11,359.23,0.3,475,gm004,CMS0.3s_475years_gm004
+105,617,1.13,3.9,9.2," ""Whittier Narrows-01""",1987," ""Featherly Park - Maint""",5.99, Reverse Oblique,37.92,367.54,0.3,475,gm005,CMS0.3s_475years_gm005
+106,1674,2.04,12.2,13," ""Northridge-03""",1994," ""Tarzana - Cedar Hill A""",5.2, Reverse,19.89,257.21,0.3,475,gm006,CMS0.3s_475years_gm006
+107,3565,1.28,3.5,13.9," ""Taiwan SMART1(5)""",1981," ""SMART1 M06""",5.9, Reverse,25.61,308.39,0.3,475,gm007,CMS0.3s_475years_gm007
+108,4259,2.03,4.7,11.6," ""Ancona-09_ Italy""",1972," ""Ancona-Palombina""",4.7, strike slip,13.16,256,0.3,475,gm008,CMS0.3s_475years_gm008
+109,9831,2.12,3.9,9.8," ""51182810""",2007," ""Mammoth Lakes""",4.6, strike slip,19.38,317,0.3,475,gm009,CMS0.3s_475years_gm009
+110,10845,3.42,0.8,3.8," ""14312160""",2007," ""Santa Monica""",4.66, Reverse,32.44,367.76,0.3,475,gm0010,CMS0.3s_475years_gm0010
+111,149,0.88,5,11," ""Coyote Lake""",1979," ""Gilroy Array #4""",5.74, strike slip,5.7,221.78,0.3,975,gm001,CMS0.3s_975years_gm001
+112,617,1.73,3.9,9.2," ""Whittier Narrows-01""",1987," ""Featherly Park""",5.99, Reverse Oblique,37.92,367.54,0.3,975,gm002,CMS0.3s_975years_gm002
+113,1644,0.89,2.1,8.8," ""Sierra Madre""",1991," ""Obregon Park""",5.61, Reverse,27.4,349.43,0.3,975,gm003,CMS0.3s_975years_gm003
+114,1674,3.12,12.2,13," ""Northridge-03""",1994," ""Tarzana - Cedar Hill A""",5.2, Reverse,19.89,257.21,0.3,975,gm004,CMS0.3s_975years_gm004
+115,1693,2.14,4,9.4," ""Northridge-06""",1994," ""Arleta""",5.28, Reverse,12.06,297.71,0.3,975,gm005,CMS0.3s_975years_gm005
+116,1697,1.49,1.4,3.2," ""Northridge-06""",1994," ""Burbank - N Buena Vista""",5.28, Reverse,17.62,320.57,0.3,975,gm006,CMS0.3s_975years_gm006
+117,3830,0.87,2.1,5.7," ""Yountville""",2000," ""Napa""",5, strike slip,17.29,331.66,0.3,975,gm007,CMS0.3s_975years_gm007
+118,4259,3.1,4.7,11.6," ""Ancona-09_ Italy""",1972," ""Ancona-Palombina""",4.7, strike slip,13.16,256,0.3,975,gm008,CMS0.3s_975years_gm008
+119,4335,2,1.4,4.3," ""Umbria Marche""",1997," ""Assisi-Stallone""",5.7, Normal,23.48,376.6,0.3,975,gm009,CMS0.3s_975years_gm009
+120,9549,2.67,1.2,6.2," ""10410337""",2009," ""Long Beach""",4.7, strike slip,28.69,226.29,0.3,975,gm0010,CMS0.3s_975years_gm0010
+121,391,2.38,4,14.8," ""Coalinga-03""",1983," ""Burnett Construction""",5.38, Reverse,13.45,352.2,0.3,2475,gm001,CMS0.3s_2475years_gm001
+122,405,1.42,6,9.7," ""Coalinga-05""",1983," ""Burnett Construction""",5.77, Reverse,11.5,352.2,0.3,2475,gm002,CMS0.3s_2475years_gm002
+123,418,0.65,0.4,2.8," ""Coalinga-07""",1983," ""Coalinga-14th""",5.21, Reverse,10.89,286.41,0.3,2475,gm003,CMS0.3s_2475years_gm003
+124,652,1.87,5.2,12," ""Whittier Narrows-01""",1987," ""Lakewood""",5.99, Reverse Oblique,26.68,267.35,0.3,2475,gm004,CMS0.3s_2475years_gm004
+125,1141,0.84,10.3,16.7," ""Dinar_ Turkey""",1995," ""Dinar""",6.4, Normal,3.36,219.75,0.3,2475,gm005,CMS0.3s_2475years_gm005
+126,3564,2.17,3.1,12.4," ""Taiwan SMART1(5)""",1981," ""SMART1 M05""",5.9, Reverse,25.79,306.38,0.3,2475,gm006,CMS0.3s_2475years_gm006
+127,3565,2.93,3.5,13.9," ""Taiwan SMART1(5)""",1981," ""SMART1 M06""",5.9, Reverse,25.61,308.39,0.3,2475,gm007,CMS0.3s_2475years_gm007
+128,3856,2.69,5.6,9.7," ""Chi-Chi_ Taiwan-04""",1999," ""CHY014""",6.2, strike slip,37.91,347.63,0.3,2475,gm008,CMS0.3s_2475years_gm008
+129,4112,0.94,4.4,8.5," ""Parkfield-02_ CA""",2004," ""Parkfield - Fault Zone 8""",6, strike slip,3.95,308.84,0.3,2475,gm009,CMS0.3s_2475years_gm009
+130,5265,0.83,8.1,22.8," ""Chuetsu-oki_ Japan""",2007," ""NIG019""",6.8, Reverse,23.36,372.33,0.3,2475,gm0010,CMS0.3s_2475years_gm0010
+131,412,1.34,3.4,7.3," ""Coalinga-05""",1983," ""Pleasant Valley P.P. - yard""",5.77, Reverse,16.05,257.38,0.3,5000,gm001,CMS0.3s_5000years_gm001
+132,418,0.8,0.4,2.8," ""Coalinga-07""",1983," ""Coalinga-14th & Elm (Old CHP)""",5.21, Reverse,10.89,286.41,0.3,5000,gm002,CMS0.3s_5000years_gm002
+133,558,1.04,2.6,8.1," ""Chalfant Valley-02""",1986," ""Zack Brothers Ranch""",6.19, strike slip,7.58,316.19,0.3,5000,gm003,CMS0.3s_5000years_gm003
+134,708,2.67,0.7,3.1," ""Whittier Narrows-02""",1987," ""Altadena - Eaton Canyon""",5.27, Reverse Oblique,15.38,375.16,0.3,5000,gm004,CMS0.3s_5000years_gm004
+135,1141,1.03,10.3,16.7," ""Dinar_ Turkey""",1995," ""Dinar""",6.4, Normal,3.36,219.75,0.3,5000,gm005,CMS0.3s_5000years_gm005
+136,1670,3.6,3.6,7.4," ""Northridge-03""",1994," ""Newhall - Fire Sta""",5.2, Reverse,9.35,269.14,0.3,5000,gm006,CMS0.3s_5000years_gm006
+137,3564,2.67,3.1,12.4," ""Taiwan SMART1(5)""",1981," ""SMART1 M05""",5.9, Reverse,25.79,306.38,0.3,5000,gm007,CMS0.3s_5000years_gm007
+138,3565,3.6,3.5,13.9," ""Taiwan SMART1(5)""",1981," ""SMART1 M06""",5.9, Reverse,25.61,308.39,0.3,5000,gm008,CMS0.3s_5000years_gm008
+139,5265,1.02,8.1,22.8," ""Chuetsu-oki_ Japan""",2007," ""NIG019""",6.8, Reverse,23.36,372.33,0.3,5000,gm009,CMS0.3s_5000years_gm009
+140,5620,1.66,11.7,30.8," ""Iwate_ Japan""",2008," ""IWT012""",6.9, Reverse,20.64,264.48,0.3,5000,gm0010,CMS0.3s_5000years_gm0010
+141,252,0.16,1.4,8.2," ""Mammoth Lakes-07""",1980," ""Green Church""",4.73, strike slip,5.17,353.2,0.4,43,gm001,CMS0.4s_43years_gm001
+142,2039,0.91,9.5,20.3," ""Gilroy""",2002," ""San Juan Bautista_ 24 Polk St""",4.9, strike slip,14.51,335.5,0.4,43,gm002,CMS0.4s_43years_gm002
+143,10569,1.26,4.7,10.6," ""10370141""",2009," ""Riverside - Hwy 91 & Van Buren""",4.45, strike slip,27.51,333.31,0.4,43,gm003,CMS0.4s_43years_gm003
+144,10583,0.75,0.8,3.1," ""10370141""",2009," ""Riverside - Hwy 91 & Central""",4.45, strike slip,22.77,323.4,0.4,43,gm004,CMS0.4s_43years_gm004
+145,10587,2.49,4.3,11.2," ""10370141""",2009," ""Riverside - Limonite & Downey""",4.45, strike slip,25.46,329.84,0.4,43,gm005,CMS0.4s_43years_gm005
+146,11495,0.8,2.8,6.5," ""10275733""",2007," ""Riverside - Hwy 91 & Van Buren""",4.73, strike slip,22.72,333.31,0.4,43,gm006,CMS0.4s_43years_gm006
+147,11503,1.43,3.2,6.5," ""10275733""",2007," ""Corona - Hwy 91 & McKinley""",4.73, strike slip,18.67,354.82,0.4,43,gm007,CMS0.4s_43years_gm007
+148,11509,0.43,0.8,2.6," ""10275733""",2007," ""Corona - California Ave""",4.73, strike slip,16.24,334.85,0.4,43,gm008,CMS0.4s_43years_gm008
+149,11699,0.41,2.4,4.7," ""40234037""",2009," ""San Jose - Hwy 101 & Metcalf Rd""",4.3, strike slip,12.39,337.77,0.4,43,gm009,CMS0.4s_43years_gm009
+150,12581,2.17,4.6,8.6," ""51207740""",2008," ""Casto Valley - Chester & Castro Valley""",4.1, strike slip,22.95,350.5,0.4,43,gm0010,CMS0.4s_43years_gm0010
+151,229,0.44,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.4,100,gm001,CMS0.4s_100years_gm001
+152,2039,1.73,9.5,20.3," ""Gilroy""",2002," ""San Juan Bautista_ 24 Polk St""",4.9, strike slip,14.51,335.5,0.4,100,gm002,CMS0.4s_100years_gm002
+153,9831,0.65,3.9,9.8," ""51182810""",2007," ""Mammoth Lakes""",4.6, strike slip,19.38,317,0.4,100,gm003,CMS0.4s_100years_gm003
+154,10569,2.38,4.7,10.6," ""10370141""",2009," ""Riverside - Hwy 91 & Van Buren""",4.45, strike slip,27.51,333.31,0.4,100,gm004,CMS0.4s_100years_gm004
+155,10583,1.43,0.8,3.1," ""10370141""",2009," ""Riverside - Hwy 91 & Central""",4.45, strike slip,22.77,323.4,0.4,100,gm005,CMS0.4s_100years_gm005
+156,11495,1.51,2.8,6.5," ""10275733""",2007," ""Riverside - Hwy 91 & Van Buren""",4.73, strike slip,22.72,333.31,0.4,100,gm006,CMS0.4s_100years_gm006
+157,11503,2.71,3.2,6.5," ""10275733""",2007," ""Corona - Hwy 91 & McKinley""",4.73, strike slip,18.67,354.82,0.4,100,gm007,CMS0.4s_100years_gm007
+158,11509,0.8,0.8,2.6," ""10275733""",2007," ""Corona - California Ave""",4.73, strike slip,16.24,334.85,0.4,100,gm008,CMS0.4s_100years_gm008
+159,11648,2.57,3.3,8.2," ""51183708""",2007," ""San Juan Bautista_ 24 Polk St""",4.2, strike slip,9.42,335.5,0.4,100,gm009,CMS0.4s_100years_gm009
+160,11699,0.78,2.4,4.7," ""40234037""",2009," ""San Jose - Hwy 101 & Metcalf Rd""",4.3, strike slip,12.39,337.77,0.4,100,gm0010,CMS0.4s_100years_gm0010
+161,229,0.79,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.4,225,gm001,CMS0.4s_225years_gm001
+162,396,0.79,4.5,8.8," ""Coalinga-04""",1983," ""Burnett Construction""",5.18, Reverse,14.79,352.2,0.4,225,gm002,CMS0.4s_225years_gm002
+163,1725,1.09,2.4,4," ""Northridge-06""",1994," ""Panorama City - Roscoe""",5.28, Reverse,11.6,318.16,0.4,225,gm003,CMS0.4s_225years_gm003
+164,2041,1.96,4.5,10.6," ""Gilroy""",2002," ""Santa Cruz - Co Office Bldg Gnds""",4.9, strike slip,36.87,321.91,0.4,225,gm004,CMS0.4s_225years_gm004
+165,3690,1.24,3.2,10," ""Whittier Narrows-02""",1987," ""Brea - S Flower Av""",5.27, Reverse Oblique,25.43,322.75,0.4,225,gm005,CMS0.4s_225years_gm005
+166,3830,0.25,2.1,5.7," ""Yountville""",2000," ""Napa - Napa College""",5, strike slip,17.29,331.66,0.4,225,gm006,CMS0.4s_225years_gm006
+167,8887,1.15,5.5,13.9," ""14383980""",2008," ""Santa Ana - I5 & 4th St""",5.39, Reverse Oblique,25.13,305.54,0.4,225,gm007,CMS0.4s_225years_gm007
+168,9593,3.78,3.6,8.1," ""10410337""",2009," ""Long Beach - Los Coyotes & Stearns""",4.7, strike slip,25.8,315.63,0.4,225,gm008,CMS0.4s_225years_gm008
+169,11495,2.7,2.8,6.5," ""10275733""",2007," ""Riverside - Hwy 91 & Van Buren""",4.73, strike slip,22.72,333.31,0.4,225,gm009,CMS0.4s_225years_gm009
+170,11509,1.44,0.8,2.6," ""10275733""",2007," ""Corona - California Ave""",4.73, strike slip,16.24,334.85,0.4,225,gm0010,CMS0.4s_225years_gm0010
+171,547,0.41,3.1,11.5," ""Chalfant Valley-01""",1986," ""Zack Brothers Ranch""",5.77, strike slip,6.39,316.19,0.4,475,gm001,CMS0.4s_475years_gm001
+172,705,1.1,3.1,11.4," ""Whittier Narrows-01""",1987," ""West Covina - S Orange Ave""",5.99, Reverse Oblique,16.32,334.69,0.4,475,gm002,CMS0.4s_475years_gm002
+173,1701,1.91,1.3,3," ""Northridge-06""",1994," ""Hollywood - Willoughby Ave""",5.28, Reverse,19.62,347.7,0.4,475,gm003,CMS0.4s_475years_gm003
+174,3568,1.57,4,12.8," ""Taiwan SMART1(5)""",1981," ""SMART1 M10""",5.9, Reverse,27.02,321.63,0.4,475,gm004,CMS0.4s_475years_gm004
+175,3690,1.97,3.2,10," ""Whittier Narrows-02""",1987," ""Brea - S Flower Av""",5.27, Reverse Oblique,25.43,322.75,0.4,475,gm005,CMS0.4s_475years_gm005
+176,3707,3.88,1.8,12," ""Whittier Narrows-02""",1987," ""Hacienda Heights - Colima""",5.27, Reverse Oblique,18.51,337,0.4,475,gm006,CMS0.4s_475years_gm006
+177,3732,3.82,8.2,12.3," ""Whittier Narrows-02""",1987," ""Panorama City - Roscoe""",5.27, Reverse Oblique,37.02,318.16,0.4,475,gm007,CMS0.4s_475years_gm007
+178,4112,0.39,4.4,8.5," ""Parkfield-02_ CA""",2004," ""Parkfield - Fault Zone 8""",6, strike slip,3.95,308.84,0.4,475,gm008,CMS0.4s_475years_gm008
+179,8937,3.44,6.5,22.6," ""14383980""",2008," ""Costa Mesa; Fire Station 4 Placentia Ave; 1-story; ground level""",5.39, Reverse Oblique,36.56,325.62,0.4,475,gm009,CMS0.4s_475years_gm009
+180,9320,2.88,1.2,6.8," ""14155260""",2005," ""Beaumont_ I-10 at 79""",4.88, Reverse Oblique,21.63,341,0.4,475,gm0010,CMS0.4s_475years_gm0010
+181,100,2.84,4.9,9.6," ""Hollister-03""",1974," ""San Juan Bautista_ 24 Polk St""",5.14, strike slip,9.11,335.5,0.4,975,gm001,CMS0.4s_975years_gm001
+182,229,1.93,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.4,975,gm002,CMS0.4s_975years_gm002
+183,374,2.54,3.7,6," ""Coalinga-02""",1983," ""Burnett Construction""",5.09, Reverse,17.4,352.2,0.4,975,gm003,CMS0.4s_975years_gm003
+184,517,0.64,3.8,7.6," ""N. Palm Springs""",1986," ""Desert Hot Springs""",6.06, Reverse Oblique,6.82,359,0.4,975,gm004,CMS0.4s_975years_gm004
+185,612,2.62,7.6,19.6," ""Whittier Narrows-01""",1987," ""Covina - S Grand Ave""",5.99, Reverse Oblique,20.91,346.62,0.4,975,gm005,CMS0.4s_975years_gm005
+186,613,1.34,6.2,15.3," ""Whittier Narrows-01""",1987," ""Covina - W Badillo""",5.99, Reverse Oblique,18.59,324.79,0.4,975,gm006,CMS0.4s_975years_gm006
+187,635,2.23,6.4,13.6," ""Whittier Narrows-01""",1987," ""LA - Hollywood Stor FF""",5.99, Reverse Oblique,24.08,316.46,0.4,975,gm007,CMS0.4s_975years_gm007
+188,1660,3.39,0.9,3.7," ""Northridge-02""",1994," ""LA - Hollywood Stor FF""",6.05, Reverse,20.68,316.46,0.4,975,gm008,CMS0.4s_975years_gm008
+189,1701,2.95,1.3,3," ""Northridge-06""",1994," ""Hollywood - Willoughby Ave""",5.28, Reverse,19.62,347.7,0.4,975,gm009,CMS0.4s_975years_gm009
+190,1733,3.24,2.7,3.7," ""Northridge-06""",1994," ""Sun Valley - Roscoe Blvd""",5.28, Reverse,12.22,320.93,0.4,975,gm0010,CMS0.4s_975years_gm0010
+191,339,2,10.4,19.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 15""",6.36, Reverse,29.38,307.59,0.4,2475,gm001,CMS0.4s_2475years_gm001
+192,405,1.08,6,9.7," ""Coalinga-05""",1983," ""Burnett Construction""",5.77, Reverse,11.5,352.2,0.4,2475,gm002,CMS0.4s_2475years_gm002
+193,549,1.36,3.6,16.8," ""Chalfant Valley-02""",1986," ""Bishop - LADWP South St""",6.19, strike slip,17.17,303.47,0.4,2475,gm003,CMS0.4s_2475years_gm003
+194,612,3.87,7.6,19.6," ""Whittier Narrows-01""",1987," ""Covina - S Grand Ave""",5.99, Reverse Oblique,20.91,346.62,0.4,2475,gm004,CMS0.4s_2475years_gm004
+195,622,2.63,3.2,11.4," ""Whittier Narrows-01""",1987," ""Hacienda Heights - Colima""",5.99, Reverse Oblique,17.39,337,0.4,2475,gm005,CMS0.4s_2475years_gm005
+196,3467,2.54,9.7,21," ""Chi-Chi_ Taiwan-06""",1999," ""TCU065""",6.3, Reverse,26.05,305.85,0.4,2475,gm006,CMS0.4s_2475years_gm006
+197,3578,1.69,4.5,13.4," ""Taiwan SMART1(5)""",1981," ""SMART1 O12""",5.9, Reverse,28.51,303.36,0.4,2475,gm007,CMS0.4s_2475years_gm007
+198,4117,1.27,5.3,11.7," ""Parkfield-02_ CA""",2004," ""Parkfield - Fault Zone 15""",6, strike slip,2.67,307.59,0.4,2475,gm008,CMS0.4s_2475years_gm008
+199,4134,1.64,3,6.9," ""Parkfield-02_ CA""",2004," ""Parkfield - Vineyard Cany 3W""",6, strike slip,5.21,308.87,0.4,2475,gm009,CMS0.4s_2475years_gm009
+200,4276,1.86,3.4,7.9," ""Friuli (aftershock 9)_ Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,0.4,2475,gm0010,CMS0.4s_2475years_gm0010
+201,229,3.77,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.4,5000,gm001,CMS0.4s_5000years_gm001
+202,346,2.81,6.1,12.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 8""",6.36, Reverse,29.94,308.84,0.4,5000,gm002,CMS0.4s_5000years_gm002
+203,547,1.24,3.1,11.5," ""Chalfant Valley-01""",1986," ""Zack Brothers Ranch""",5.77, strike slip,6.39,316.19,0.4,5000,gm003,CMS0.4s_5000years_gm003
+204,625,3.49,1.9,11.2," ""Whittier Narrows-01""",1987," ""Inglewood - Union Oil""",5.99, Reverse Oblique,25.86,316.02,0.4,5000,gm004,CMS0.4s_5000years_gm004
+205,692,1.09,1.8,6," ""Whittier Narrows-01""",1987," ""Santa Fe Springs - E.Joslin""",5.99, Reverse Oblique,18.49,339.06,0.4,5000,gm005,CMS0.4s_5000years_gm005
+206,724,1.65,9,13.3," ""Superstition Hills-02""",1987," ""Plaster City""",6.54, strike slip,22.25,316.64,0.4,5000,gm006,CMS0.4s_5000years_gm006
+207,725,1,11.2,13.7," ""Superstition Hills-02""",1987," ""Poe Road (temp)""",6.54, strike slip,11.16,316.64,0.4,5000,gm007,CMS0.4s_5000years_gm007
+208,1039,1.33,7.7,16.1," ""Northridge-01""",1994," ""Moorpark - Fire Sta""",6.69, Reverse,24.76,341.58,0.4,5000,gm008,CMS0.4s_5000years_gm008
+209,3564,3.58,3.1,12.4," ""Taiwan SMART1(5)""",1981," ""SMART1 M05""",5.9, Reverse,25.79,306.38,0.4,5000,gm009,CMS0.4s_5000years_gm009
+210,3968,0.44,6,35.3," ""Tottori_ Japan""",2000," ""TTRH02""",6.61, strike slip,0.97,310.21,0.4,5000,gm0010,CMS0.4s_5000years_gm0010
+211,650,0.31,3.8,14.1," ""Whittier Narrows-01""",1987," ""La Puente - Rimgrove Av""",5.99, Reverse Oblique,17.75,339.52,0.6,43,gm001,CMS0.6s_43years_gm001
+212,1663,2.67,4.1,14.8," ""Northridge-02""",1994," ""Los Angeles - 7-story Univ Hospital (FF)""",6.05, Reverse,31.31,332.28,0.6,43,gm002,CMS0.6s_43years_gm002
+213,1719,0.51,4.5,10.5," ""Northridge-06""",1994," ""Malibu - Point Dume Sch""",5.28, Reverse,37.33,349.54,0.6,43,gm003,CMS0.6s_43years_gm003
+214,3467,0.17,9.7,21," ""Chi-Chi_ Taiwan-06""",1999," ""TCU065""",6.3, Reverse,26.05,305.85,0.6,43,gm004,CMS0.6s_43years_gm004
+215,9831,0.51,3.9,9.8," ""51182810""",2007," ""Mammoth Lakes""",4.6, strike slip,19.38,317,0.6,43,gm005,CMS0.6s_43years_gm005
+216,10660,0.82,2.1,6," ""10370141""",2009," ""SBVC_ Observatory""",4.45, strike slip,13.94,329.42,0.6,43,gm006,CMS0.6s_43years_gm006
+217,11648,0.95,3.3,8.2," ""51183708""",2007," ""San Juan Bautista_ 24 Polk St""",4.2, strike slip,9.42,335.5,0.6,43,gm007,CMS0.6s_43years_gm007
+218,12058,3.37,7.1,15.5," ""14116972""",2005," ""San Bernardino - Fire Sta. #4""",4.42, strike slip,14.16,322.53,0.6,43,gm008,CMS0.6s_43years_gm008
+219,12581,3.52,4.6,8.6," ""51207740""",2008," ""Casto Valley - Chester & Castro Valley""",4.1, strike slip,22.95,350.5,0.6,43,gm009,CMS0.6s_43years_gm009
+220,SANA,8.2,,,Chiang Mai,2022,SANA,4.1, strike slip,10,300,0.6,43,gm0010,CMS0.6s_43years_gm0010
+221,229,0.5,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.6,100,gm001,CMS0.6s_100years_gm001
+222,1853,0.1,2.3,3.4," ""Yountville""",2000," ""Napa Fire Station #3""",5, strike slip,11.5,328.57,0.6,100,gm002,CMS0.6s_100years_gm002
+223,1866,1.32,1.3,6.1," ""Yountville""",2000," ""Sonoma Fire Station #1""",5, strike slip,12.42,299.37,0.6,100,gm003,CMS0.6s_100years_gm003
+224,3830,0.21,2.1,5.7," ""Yountville""",2000," ""Napa - Napa College""",5, strike slip,17.29,331.66,0.6,100,gm004,CMS0.6s_100years_gm004
+225,9831,0.98,3.9,9.8," ""51182810""",2007," ""Mammoth Lakes""",4.6, strike slip,19.38,317,0.6,100,gm005,CMS0.6s_100years_gm005
+226,10613,3.61,1,5.4," ""10370141""",2009," ""Mira Loma - Mission&San Sevaine""",4.45, strike slip,25.02,342.5,0.6,100,gm006,CMS0.6s_100years_gm006
+227,11060,2.97,3.7,10.7," ""21522424""",2006," ""San Juan Bautista_ 24 Polk St""",4.3, strike slip,26.35,335.5,0.6,100,gm007,CMS0.6s_100years_gm007
+228,11648,1.81,3.3,8.2," ""51183708""",2007," ""San Juan Bautista_ 24 Polk St""",4.2, strike slip,9.42,335.5,0.6,100,gm008,CMS0.6s_100years_gm008
+229,11653,1.62,6.3,11.6," ""51183708""",2007," ""Hollister - South & Pine""",4.2, strike slip,20.51,282.14,0.6,100,gm009,CMS0.6s_100years_gm009
+230,11871,3.22,6.5,12.8," ""9703873""",2001," ""Los Angeles - Acosta Residence""",4.24, strike slip,21.15,330.03,0.6,100,gm0010,CMS0.6s_100years_gm0010
+231,96,0.37,2.8,8.1," ""Managua_ Nicaragua-02""",1972," ""Managua_ ESSO""",5.2, strike slip,4.98,288.77,0.6,225,gm001,CMS0.6s_225years_gm001
+232,229,0.62,3.3,5.4," ""Anza (Horse Canyon)-01""",1980," ""Rancho De Anza""",5.19, strike slip,21.32,329,0.6,225,gm002,CMS0.6s_225years_gm002
+233,252,0.48,1.4,8.2," ""Mammoth Lakes-07""",1980," ""Green Church""",4.73, strike slip,5.17,353.2,0.6,225,gm003,CMS0.6s_225years_gm003
+234,396,0.86,4.5,8.8," ""Coalinga-04""",1983," ""Burnett Construction""",5.18, Reverse,14.79,352.2,0.6,225,gm004,CMS0.6s_225years_gm004
+235,1710,1.08,2.1,7.4," ""Northridge-06""",1994," ""LA - Hollywood Stor FF""",5.28, Reverse,20.82,316.46,0.6,225,gm005,CMS0.6s_225years_gm005
+236,1733,0.73,2.7,3.7," ""Northridge-06""",1994," ""Sun Valley - Roscoe Blvd""",5.28, Reverse,12.22,320.93,0.6,225,gm006,CMS0.6s_225years_gm006
+237,3711,1.03,2.6,9.1," ""Whittier Narrows-02""",1987," ""LA - Fletcher Dr""",5.27, Reverse Oblique,17.76,329.06,0.6,225,gm007,CMS0.6s_225years_gm007
+238,4276,0.22,3.4,7.9," ""Friuli (aftershock 9)_ Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,0.6,225,gm008,CMS0.6s_225years_gm008
+239,11062,2.19,6.5,12.2," ""21522424""",2006," ""Gilroy Array #3""",4.3, strike slip,12.64,349.85,0.6,225,gm009,CMS0.6s_225years_gm009
+240,11648,2.22,3.3,8.2," ""51183708""",2007," ""San Juan Bautista_ 24 Polk St""",4.2, strike slip,9.42,335.5,0.6,225,gm0010,CMS0.6s_225years_gm0010
+241,374,3.98,3.7,6," ""Coalinga-02""",1983," ""Burnett Construction""",5.09, Reverse,17.4,352.2,0.6,475,gm001,CMS0.6s_475years_gm001
+242,561,1.67,3.3,10.7," ""Chalfant Valley-03""",1986," ""Zack Brothers Ranch""",5.65, strike slip,13.97,316.19,0.6,475,gm002,CMS0.6s_475years_gm002
+243,654,2.39,8.2,12.3," ""Whittier Narrows-01""",1987," ""Lawndale - Osage Ave""",5.99, Reverse Oblique,30.04,311.86,0.6,475,gm003,CMS0.6s_475years_gm003
+244,664,1.06,5.4,11," ""Whittier Narrows-01""",1987," ""N Hollywood - Coldwater Can""",5.99, Reverse Oblique,33.11,326.47,0.6,475,gm004,CMS0.6s_475years_gm004
+245,1730,3.41,3.7,9," ""Northridge-06""",1994," ""Santa Monica City Hall""",5.28, Reverse,24.02,336.2,0.6,475,gm005,CMS0.6s_475years_gm005
+246,1740,1.61,2.4,5.1," ""Little Skull Mtn_NV""",1992," ""Station #1-Lathrop Wells""",5.65, Normal,16.06,302.64,0.6,475,gm006,CMS0.6s_475years_gm006
+247,1853,0.34,2.3,3.4," ""Yountville""",2000," ""Napa Fire Station #3""",5, strike slip,11.5,328.57,0.6,475,gm007,CMS0.6s_475years_gm007
+248,3711,2.88,2.6,9.1," ""Whittier Narrows-02""",1987," ""LA - Fletcher Dr""",5.27, Reverse Oblique,17.76,329.06,0.6,475,gm008,CMS0.6s_475years_gm008
+249,3721,3.53,3.3,13," ""Whittier Narrows-02""",1987," ""La Puente - Rimgrove Av""",5.27, Reverse Oblique,19.46,339.52,0.6,475,gm009,CMS0.6s_475years_gm009
+250,8487,3.85,17.6,39.5," ""Parkfield-02_ CA""",2004," ""Monarch Peak""",6, strike slip,29.43,308,0.6,475,gm0010,CMS0.6s_475years_gm0010
+251,405,0.9,6,9.7," ""Coalinga-05""",1983," ""Burnett Construction""",5.77, Reverse,11.5,352.2,0.6,975,gm001,CMS0.6s_975years_gm001
+252,445,3.55,8.2,12.6," ""New Zealand-01""",1984," ""Turangi Telephone Exchange""",5.5, Normal,8.84,356.39,0.6,975,gm002,CMS0.6s_975years_gm002
+253,645,0.82,5.6,11.7," ""Whittier Narrows-01""",1987," ""LB - Orange Ave""",5.99, Reverse Oblique,24.54,344.72,0.6,975,gm003,CMS0.6s_975years_gm003
+254,649,2.17,5.2,10.9," ""Whittier Narrows-01""",1987," ""La Habra - Briarcliff""",5.99, Reverse Oblique,20.28,338.27,0.6,975,gm004,CMS0.6s_975years_gm004
+255,681,1.15,2.8,6.8," ""Whittier Narrows-01""",1987," ""Pasadena - CIT Lura St""",5.99, Reverse Oblique,17.3,341.14,0.6,975,gm005,CMS0.6s_975years_gm005
+256,1740,2.28,2.4,5.1," ""Little Skull Mtn_NV""",1992," ""Station #1-Lathrop Wells""",5.65, Normal,16.06,302.64,0.6,975,gm006,CMS0.6s_975years_gm006
+257,3467,1.53,9.7,21," ""Chi-Chi_ Taiwan-06""",1999," ""TCU065""",6.3, Reverse,26.05,305.85,0.6,975,gm007,CMS0.6s_975years_gm007
+258,3561,2.72,3.2,11.5," ""Taiwan SMART1(5)""",1981," ""SMART1 M02""",5.9, Reverse,27.12,306.78,0.6,975,gm008,CMS0.6s_975years_gm008
+259,3743,3.87,4.9,10.1," ""Whittier Narrows-02""",1987," ""West Covina - S Orange Ave""",5.27, Reverse Oblique,17.01,334.69,0.6,975,gm009,CMS0.6s_975years_gm009
+260,4276,0.86,3.4,7.9," ""Friuli (aftershock 9)_ Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,0.6,975,gm0010,CMS0.6s_975years_gm0010
+261,68,2.23,5.2,13.4," ""San Fernando""",1971," ""LA - Hollywood Stor FF""",6.61, Reverse,22.77,316.46,0.6,2475,gm001,CMS0.6s_2475years_gm001
+262,339,1.81,10.4,19.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 15""",6.36, Reverse,29.38,307.59,0.6,2475,gm002,CMS0.6s_2475years_gm002
+263,346,1.38,6.1,12.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 8""",6.36, Reverse,29.94,308.84,0.6,2475,gm003,CMS0.6s_2475years_gm003
+264,547,1.2,3.1,11.5," ""Chalfant Valley-01""",1986," ""Zack Brothers Ranch""",5.77, strike slip,6.39,316.19,0.6,2475,gm004,CMS0.6s_2475years_gm004
+265,692,0.63,1.8,6," ""Whittier Narrows-01""",1987," ""Santa Fe Springs - E.Joslin""",5.99, Reverse Oblique,18.49,339.06,0.6,2475,gm005,CMS0.6s_2475years_gm005
+266,714,1.86,1.4,6.2," ""Whittier Narrows-02""",1987," ""LA - Obregon Park""",5.27, Reverse Oblique,13.62,349.43,0.6,2475,gm006,CMS0.6s_2475years_gm006
+267,953,0.43,6,9.3," ""Northridge-01""",1994," ""Beverly Hills - 14145 Mulhol""",6.69, Reverse,17.15,355.81,0.6,2475,gm007,CMS0.6s_2475years_gm007
+268,1039,1.35,7.7,16.1," ""Northridge-01""",1994," ""Moorpark - Fire Sta""",6.69, Reverse,24.76,341.58,0.6,2475,gm008,CMS0.6s_2475years_gm008
+269,3968,0.21,6,35.3," ""Tottori_ Japan""",2000," ""TTRH02""",6.61, strike slip,0.97,310.21,0.6,2475,gm009,CMS0.6s_2475years_gm009
+270,Tarlay,1.5499,,,Tarlay,2011,MASE,6.8, strike slip,28,300,0.6,2475,gm0010,CMS0.6s_2475years_gm0010
+271,130,2.77,4.8,10.2," ""Friuli_ Italy-02""",1976," ""Buia""",5.91, Reverse,11.03,310.68,0.6,5000,gm001,CMS0.6s_5000years_gm001
+272,346,1.86,6.1,12.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 8""",6.36, Reverse,29.94,308.84,0.6,5000,gm002,CMS0.6s_5000years_gm002
+273,547,1.62,3.1,11.5," ""Chalfant Valley-01""",1986," ""Zack Brothers Ranch""",5.77, strike slip,6.39,316.19,0.6,5000,gm003,CMS0.6s_5000years_gm003
+274,558,0.74,2.6,8.1," ""Chalfant Valley-02""",1986," ""Zack Brothers Ranch""",6.19, strike slip,7.58,316.19,0.6,5000,gm004,CMS0.6s_5000years_gm004
+275,710,3.96,5.5,11.1," ""Whittier Narrows-02""",1987," ""Inglewood - Union Oil""",5.27, Reverse Oblique,25.72,316.02,0.6,5000,gm005,CMS0.6s_5000years_gm005
+276,730,2.32,6.3,10.5," ""Spitak_ Armenia""",1988," ""Gukasian""",6.77, Reverse Oblique,23.99,343.53,0.6,5000,gm006,CMS0.6s_5000years_gm006
+277,960,0.59,3.2,6.3," ""Northridge-01""",1994," ""Canyon Country - W Lost Cany""",6.69, Reverse,12.44,325.6,0.6,5000,gm007,CMS0.6s_5000years_gm007
+278,1077,1.84,6.9,10.7," ""Northridge-01""",1994," ""Santa Monica City Hall""",6.69, Reverse,26.45,336.2,0.6,5000,gm008,CMS0.6s_5000years_gm008
+279,3968,0.28,6,35.3," ""Tottori_ Japan""",2000," ""TTRH02""",6.61, strike slip,0.97,310.21,0.6,5000,gm009,CMS0.6s_5000years_gm009
+280,4276,1.59,3.4,7.9," ""Friuli (aftershock 9)_ Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,0.6,5000,gm0010,CMS0.6s_5000years_gm0010
+281,544,0.15,12.1,21.7," ""Chalfant Valley-01""",1986," ""Bishop - LADWP South St""",5.77, strike slip,23.47,303.47,1,43,gm001,CMS1s_43years_gm001
+282,1673,3.86,8,13.7," ""Northridge-03""",1994," ""Santa Monica City Hall""",5.2, Reverse,36.25,336.2,1,43,gm002,CMS1s_43years_gm002
+283,3699,0.61,9.4,18.5," ""Whittier Narrows-02""",1987," ""Covina - S Grand Ave""",5.27, Reverse Oblique,23.35,346.62,1,43,gm003,CMS1s_43years_gm003
+284,3737,0.85,5.7,12.4," ""Whittier Narrows-02""",1987," ""Sun Valley - Roscoe Blvd""",5.27, Reverse Oblique,35.33,320.93,1,43,gm004,CMS1s_43years_gm004
+285,6120,3.27,1,5," ""Yorba Linda""",2002," ""Pomona - Garey & Bonita""",4.265, strike slip,20.39,332.51,1,43,gm005,CMS1s_43years_gm005
+286,8794,1.12,1.9,12.5," ""14383980""",2008," ""Fontana_ Arrow Hwy and Bennett""",5.39, Reverse Oblique,36.23,335.43,1,43,gm006,CMS1s_43years_gm006
+287,8815,1.04,6.5,19.1," ""14383980""",2008," ""Mira Loma_ I-15 and Riverside""",5.39, Reverse Oblique,22.55,335.43,1,43,gm007,CMS1s_43years_gm007
+288,9319,0.82,5,11.8," ""14155260""",2005," ""Big Bear Solar Observatory""",4.88, Reverse Oblique,28.55,356,1,43,gm008,CMS1s_43years_gm008
+289,9831,0.92,3.9,9.8," ""51182810""",2007," ""Mammoth Lakes""",4.6, strike slip,19.38,317,1,43,gm009,CMS1s_43years_gm009
+290,11776,2.62,3.8,10.1," ""9173365""",2001," ""North Hollywood - Laurel Canyon & Sherman""",4.26, Reverse,12.16,303.1,1,43,gm0010,CMS1s_43years_gm0010
+291,255,0.83,9.6,11.3," ""Mammoth Lakes-07""",1980," ""USC Cash Baugh Ranch""",4.73, strike slip,9.46,323.54,1,100,gm001,CMS1s_100years_gm001
+292,405,0.28,6,9.7," ""Coalinga-05""",1983," ""Burnett Construction""",5.77, Reverse,11.5,352.2,1,100,gm002,CMS1s_100years_gm002
+293,445,1.43,8.2,12.6," ""New Zealand-01""",1984," ""Turangi Telephone Exchange""",5.5, Normal,8.84,356.39,1,100,gm003,CMS1s_100years_gm003
+294,714,0.33,1.4,6.2," ""Whittier Narrows-02""",1987," ""LA - Obregon Park""",5.27, Reverse Oblique,13.62,349.43,1,100,gm004,CMS1s_100years_gm004
+295,1733,1.42,2.7,3.7," ""Northridge-06""",1994," ""Sun Valley - Roscoe Blvd""",5.28, Reverse,12.22,320.93,1,100,gm005,CMS1s_100years_gm005
+296,2129,3.11,2.9,10.1," ""Big Bear City""",2003," ""Mentone Fire Station #9""",4.92, strike slip,36.94,351.31,1,100,gm006,CMS1s_100years_gm006
+297,3728,2.11,6.1,14," ""Whittier Narrows-02""",1987," ""N Hollywood - Coldwater Can""",5.27, Reverse Oblique,33.39,326.47,1,100,gm007,CMS1s_100years_gm007
+298,4279,3.56,0.4,3.7," ""Friuli (aftershock 10)_ Italy""",1976," ""Buia""",4.8, Reverse,11.8,310.68,1,100,gm008,CMS1s_100years_gm008
+299,9575,2.48,4.1,12.9," ""10410337""",2009," ""Los Angeles - Manchester & Osage""",4.7, strike slip,10.7,331.51,1,100,gm009,CMS1s_100years_gm009
+300,11062,1.83,6.5,12.2," ""21522424""",2006," ""Gilroy Array #3""",4.3, strike slip,12.64,349.85,1,100,gm0010,CMS1s_100years_gm0010
+301,445,2.6,8.2,12.6," ""New Zealand-01""",1984," ""Turangi Telephone Exchange""",5.5, Normal,8.84,356.39,1,225,gm001,CMS1s_225years_gm001
+302,563,1.54,7.7,17.1," ""Chalfant Valley-04""",1986," ""Zack Brothers Ranch""",5.44, strike slip,10.76,316.19,1,225,gm002,CMS1s_225years_gm002
+303,713,2.79,6.5,16.6," ""Whittier Narrows-02""",1987," ""LA - Hollywood Stor FF""",5.27, Reverse Oblique,24.76,316.46,1,225,gm003,CMS1s_225years_gm003
+304,1945,1.33,5,10.5," ""Anza-02""",2001," ""Indian Wells - Hwy111 & El Dorad""",4.92, Normal Oblique,30.4,311.18,1,225,gm004,CMS1s_225years_gm004
+305,3692,2.72,5.8,11.8," ""Whittier Narrows-02""",1987," ""Burbank - N Buena Vista""",5.27, Reverse Oblique,25.98,320.57,1,225,gm005,CMS1s_225years_gm005
+306,4337,0.28,2.9,4.8," ""Umbria Marche (foreshock)_ Italy""",1997," ""Colfiorito""",5.7, Normal,4.02,317,1,225,gm006,CMS1s_225years_gm006
+307,8649,2.84,6.4,26.2," ""40204628""",2007," ""Pleasanton; Lydiksen School Highland Oaks Dr; 1-story; ground level""",5.45, strike slip,28.5,341.13,1,225,gm007,CMS1s_225years_gm007
+308,8876,1.01,2.7,20.1," ""14383980""",2008," ""Walnut""",5.39, Reverse Oblique,20.25,342.64,1,225,gm008,CMS1s_225years_gm008
+309,9636,2.5,0.5,6.7," ""10410337""",2009," ""Hawthorne; FAA Bldg""",4.7, strike slip,10.73,332.33,1,225,gm009,CMS1s_225years_gm009
+310,11062,3.34,6.5,12.2," ""21522424""",2006," ""Gilroy Array #3""",4.3, strike slip,12.64,349.85,1,225,gm0010,CMS1s_225years_gm0010
+311,96,0.66,2.8,8.1," ""Managua_ Nicaragua-02""",1972," ""Managua_ ESSO""",5.2, strike slip,4.98,288.77,1,475,gm001,CMS1s_475years_gm001
+312,391,1.03,4,14.8," ""Coalinga-03""",1983," ""Burnett Construction""",5.38, Reverse,13.45,352.2,1,475,gm002,CMS1s_475years_gm002
+313,392,1.81,8.3,16.1," ""Coalinga-03""",1983," ""Coalinga-14th & Elm (Old CHP)""",5.38, Reverse,12.63,286.41,1,475,gm003,CMS1s_475years_gm003
+314,445,3.87,8.2,12.6," ""New Zealand-01""",1984," ""Turangi Telephone Exchange""",5.5, Normal,8.84,356.39,1,475,gm004,CMS1s_475years_gm004
+315,562,1.56,3.6,16.2," ""Chalfant Valley-04""",1986," ""Bishop - LADWP South St""",5.44, strike slip,24.75,303.47,1,475,gm005,CMS1s_475years_gm005
+316,563,2.28,7.7,17.1," ""Chalfant Valley-04""",1986," ""Zack Brothers Ranch""",5.44, strike slip,10.76,316.19,1,475,gm006,CMS1s_475years_gm006
+317,1756,1.59,9.8,19.8," ""San Juan Bautista""",1998," ""Hollister - City Hall Annex""",5.17, strike slip,13.49,272.8,1,475,gm007,CMS1s_475years_gm007
+318,8658,0.98,7.5,21.7," ""40204628""",2007," ""San Jose; CHP Field Office Junction Ave; 1-story; ground level""",5.45, strike slip,13.26,266.31,1,475,gm008,CMS1s_475years_gm008
+319,8659,3.71,2,6.7," ""40204628""",2007," ""Campbell; Fire Station 11 Union Av; 2-story; ground level""",5.45, strike slip,21.39,275.34,1,475,gm009,CMS1s_475years_gm009
+320,8887,3.13,5.5,13.9," ""14383980""",2008," ""Santa Ana - I5 & 4th St""",5.39, Reverse Oblique,25.13,305.54,1,475,gm0010,CMS1s_475years_gm0010
+321,154,2.35,6.9,15.1," ""Coyote Lake""",1979," ""San Juan Bautista_ 24 Polk St""",5.74, strike slip,19.7,335.5,1,975,gm001,CMS1s_975years_gm001
+322,339,0.56,10.4,19.7," ""Coalinga-01""",1983," ""Parkfield - Fault Zone 15""",6.36, Reverse,29.38,307.59,1,975,gm002,CMS1s_975years_gm002
+323,544,1.46,12.1,21.7," ""Chalfant Valley-01""",1986," ""Bishop - LADWP South St""",5.77, strike slip,23.47,303.47,1,975,gm003,CMS1s_975years_gm003
+324,649,2.32,5.2,10.9," ""Whittier Narrows-01""",1987," ""La Habra - Briarcliff""",5.99, Reverse Oblique,20.28,338.27,1,975,gm004,CMS1s_975years_gm004
+325,723,0.29,8.1,11," ""Superstition Hills-02""",1987," ""Parachute Test Site""",6.54, strike slip,0.95,348.69,1,975,gm005,CMS1s_975years_gm005
+326,3933,1.73,5.4,11.9," ""Tottori_ Japan""",2000," ""SMN001""",6.61, strike slip,14.42,331,1,975,gm006,CMS1s_975years_gm006
+327,4134,0.9,3,6.9," ""Parkfield-02_ CA""",2004," ""Parkfield - Vineyard Cany 3W""",6, strike slip,5.21,308.87,1,975,gm007,CMS1s_975years_gm007
+328,4138,1.26,6.2,16.7," ""Parkfield-02_ CA""",2004," ""PARKFIELD - UPSAR 01""",6, strike slip,10.08,357.79,1,975,gm008,CMS1s_975years_gm008
+329,4210,0.43,6.6,95.9," ""Niigata_ Japan""",2004," ""NIG020""",6.63, Reverse,8.47,331.63,1,975,gm009,CMS1s_975years_gm009
+330,4276,1.17,3.4,7.9," ""Friuli (aftershock 9)_ Italy""",1976," ""Buia""",5.5, Reverse,12.39,310.68,1,975,gm0010,CMS1s_975years_gm0010
+331,364,2.89,6.8,20.6," ""Coalinga-01""",1983," ""Parkfield - Vineyard Cany 4W""",6.36, Reverse,34.45,386.19,1,2475,gm001,CMS1s_2475years_gm001
+332,1006,1.47,5.8,11.3," ""Northridge-01""",1994," ""LA - UCLA Grounds""",6.69, Reverse,22.49,398.42,1,2475,gm002,CMS1s_2475years_gm002
+333,2892,4.52,19.8,26.6," ""Chi-Chi_ Taiwan-04""",1999," ""TCU120""",6.2, strike slip,38.36,459.34,1,2475,gm003,CMS1s_2475years_gm003
+334,3468,4.17,10.3,22.8," ""Chi-Chi_ Taiwan-06""",1999," ""TCU067""",6.3, Reverse,24.67,433.63,1,2475,gm004,CMS1s_2475years_gm004
+335,3503,2.27,8.1,15.2," ""Chi-Chi_ Taiwan-06""",1999," ""TCU122""",6.3, Reverse,31.28,475.46,1,2475,gm005,CMS1s_2475years_gm005
+336,3753,1.51,22.7,29.6," ""Landers""",1992," ""Fun Valley""",7.28, strike slip,25.02,388.63,1,2475,gm006,CMS1s_2475years_gm006
+337,4031,1.02,3.3,10.3," ""San Simeon_ CA""",2003," ""Templeton - 1-story Hospital""",6.52, Reverse,6.22,410.66,1,2475,gm007,CMS1s_2475years_gm007
+338,4871,0.97,10.6,18.9," ""Chuetsu-oki_ Japan""",2007," ""Shiozawa Building_ Minamiunuma""",6.8, Reverse,41.75,425.06,1,2475,gm008,CMS1s_2475years_gm008
+339,5270,1.53,5.4,15.8," ""Chuetsu-oki_ Japan""",2007," ""NIG024""",6.8, Reverse,25.33,375.22,1,2475,gm009,CMS1s_2475years_gm009
+340,8157,0.47,3.3,6," ""Christchurch_ New Zealand""",2011," ""Heathcote Valley Primary School """,6.2, Reverse Oblique,3.36,422,1,2475,gm0010,CMS1s_2475years_gm0010
+341,57,1.92,10.6,16.8," ""San Fernando""",1971," ""Castaic - Old Ridge Route""",6.61, Reverse,22.63,450.28,1,5000,gm001,CMS1s_5000years_gm001
+342,802,1.3,4.1,9.4," ""Loma Prieta""",1989," ""Saratoga - Aloha Ave""",6.93, Reverse Oblique,8.5,380.89,1,5000,gm002,CMS1s_5000years_gm002
+343,982,0.36,4,12.5," ""Northridge-01""",1994," ""Jensen Filter Plant Administrative Building""",6.69, Reverse,5.43,373.07,1,5000,gm003,CMS1s_5000years_gm003
+344,1019,2.56,8.4,16," ""Northridge-01""",1994," ""Lake Hughes #1""",6.69, Reverse,35.81,425.34,1,5000,gm004,CMS1s_5000years_gm004
+345,1283,4.19,10.5,20.1," ""Chi-Chi_ Taiwan""",1999," ""HWA034""",7.62, Reverse Oblique,44.32,379.18,1,5000,gm005,CMS1s_5000years_gm005
+346,3473,1.44,3.6,7.4," ""Chi-Chi_ Taiwan-06""",1999," ""TCU078""",6.3, Reverse,11.52,443.04,1,5000,gm006,CMS1s_5000years_gm006
+347,3751,1.74,8.3,14.7," ""Cape Mendocino""",1992," ""South Bay Union School""",7.01, Reverse,35.22,459.04,1,5000,gm007,CMS1s_5000years_gm007
+348,3759,4.36,23.2,33.4," ""Landers""",1992," ""Whitewater Trout Farm""",7.28, strike slip,27.05,425.02,1,5000,gm008,CMS1s_5000years_gm008
+349,3865,2.76,7.1,20.6," ""Chi-Chi_ Taiwan-06""",1999," ""CHY006""",6.3, Reverse,40.64,438.19,1,5000,gm009,CMS1s_5000years_gm009
+350,4451,0.59,8.8,21.3," ""Montenegro_ Yugoslavia""",1979," ""Bar-Skupstina Opstine""",7.1, Reverse,6.98,462.23,1,5000,gm0010,CMS1s_5000years_gm0010

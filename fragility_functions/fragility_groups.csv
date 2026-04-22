@@ -1,0 +1,19 @@
+group_id,group_label,n_stories,bay_length_m,storey_height_m,infill_ratio,construction_era,n_buildings,description
+G01,S1-BL-LI,1,3.0–4.0,3.0–3.5,Low (<0.3),Pre-1990,5,Single-storey, short bay, low infill ratio
+G02,S1-BL-MI,1,3.0–4.0,3.0–3.5,Medium (0.3–0.6),Pre-1990,5,Single-storey, short bay, medium infill ratio
+G03,S1-BL-HI,1,3.0–4.0,3.0–3.5,High (>0.6),Pre-1990,5,Single-storey, short bay, high infill ratio
+G04,S1-BL-LI,1,3.0–4.0,3.0–3.5,Low (<0.3),Post-1990,5,Single-storey, short bay, low infill ratio (modern)
+G05,S2-BL-MI,2,3.0–4.0,3.0–3.5,Medium (0.3–0.6),Pre-1990,4,Two-storey, short bay, medium infill ratio
+G06,S2-BL-HI,2,3.0–4.0,3.0–3.5,High (>0.6),Pre-1990,4,Two-storey, short bay, high infill ratio
+G07,S2-LL-MI,2,4.0–5.5,3.0–3.5,Medium (0.3–0.6),Pre-1990,4,Two-storey, long bay, medium infill ratio
+G08,S2-LL-HI,2,4.0–5.5,3.0–3.5,High (>0.6),Pre-1990,4,Two-storey, long bay, high infill ratio
+G09,S3-BL-LI,3,3.0–4.0,3.0–3.5,Low (<0.3),Pre-1990,5,Three-storey, short bay, low infill ratio
+G10,S3-BL-MI,3,3.0–4.0,3.0–3.5,Medium (0.3–0.6),Pre-1990,5,Three-storey, short bay, medium infill ratio
+G11,S3-BL-HI,3,3.0–4.0,3.0–3.5,High (>0.6),Pre-1990,5,Three-storey, short bay, high infill ratio
+G12,S3-LL-MI,3,4.0–5.5,3.0–3.5,Medium (0.3–0.6),Pre-1990,4,Three-storey, long bay, medium infill ratio
+G13,S3-LL-HI,3,4.0–5.5,3.0–3.5,High (>0.6),Pre-1990,4,Three-storey, long bay, high infill ratio
+G14,S4-BL-MI,4,3.0–4.0,3.0–3.5,Medium (0.3–0.6),Pre-1990,4,Four-storey, short bay, medium infill ratio
+G15,S4-BL-HI,4,3.0–4.0,3.0–3.5,High (>0.6),Pre-1990,4,Four-storey, short bay, high infill ratio
+G16,S4-LL-MI,4,4.0–5.5,3.0–3.5,Medium (0.3–0.6),Pre-1990,4,Four-storey, long bay, medium infill ratio
+G17,S4-LL-HI,4,4.0–5.5,3.0–3.5,High (>0.6),Pre-1990,4,Four-storey, long bay, high infill ratio
+G18,S4-LL-HI,4,4.0–5.5,3.0–3.5,High (>0.6),Post-1990,4,Four-storey, long bay, high infill ratio (modern)
