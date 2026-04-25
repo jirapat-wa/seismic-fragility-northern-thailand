@@ -2,15 +2,12 @@
 
 ## Overview
 
-This folder contains the seismic fragility functions for **18 building groups** representing low-rise masonry-infilled RC frame buildings (HAZUS C3 pre-code classification) in Chiang Mai, Thailand.
+This folder contains seismic fragility functions for **18 building groups** representing low-rise masonry-infilled RC frame buildings (HAZUS C3 pre-code classification) in Chiang Mai, Thailand.
 
-Fragility functions are expressed as lognormal cumulative distribution functions:
+Two intensity measures are provided:
 
-$$P(DS \geq ds_i \mid IM = x) = \Phi\left[\frac{\ln(x/\theta)}{\beta}\right]$$
-
-where **θ** is the median IM capacity and **β** is the total log-standard deviation.
-
-Parameters were estimated using Maximum Likelihood Estimation (MLE) applied to demand data from Multiple Stripe Analysis (MSA) with 35 ground motion stripes.
+- **PGA** — Peak Ground Acceleration (g)
+- **SA(T1)** — Spectral Acceleration at the fundamental period of the building (g)
 
 ---
 
@@ -19,7 +16,7 @@ Parameters were estimated using Maximum Likelihood Estimation (MLE) applied to d
 | File | Description |
 |------|-------------|
 | `fragility_groups.csv` | Definition of 18 fragility groups (occupancy type, stories, HAZUS class, representative models) |
-| `fragility_parameters.csv` | Lognormal fragility parameters (θ, β) for all groups × 2 IMs × 4 damage states |
+| `fragility_parameters.csv` | Fragility parameters for all 18 groups × 2 IMs × 4 damage states |
 
 ---
 
@@ -40,17 +37,22 @@ Parameters were estimated using Maximum Likelihood Estimation (MLE) applied to d
 
 | Column | Unit | Description |
 |--------|------|-------------|
-| `group_id` | — | Fragility group identifier |
-| `imt` | — | Intensity measure type: `PGA` (g) or `SA(T1)` (g) |
-| `damage_state` | — | Damage state: Slight, Moderate, Extensive, Complete |
-| `theta` | g | Median IM capacity |
-| `beta` | — | Total log-standard deviation (dispersion) |
+| `Building Class` | — | Fragility group identifier |
+| `Intensity Measure` | — | `PGA` (g) or `SA(T1)` (g) |
+| `Median slight damage` | g | Median IM capacity at Slight damage state |
+| `Logarithmic standard deviation slight` | — | Dispersion at Slight damage state |
+| `Median moderate damage` | g | Median IM capacity at Moderate damage state |
+| `Logarithmic standard deviation moderate` | — | Dispersion at Moderate damage state |
+| `Median extensive damage` | g | Median IM capacity at Extensive damage state |
+| `Logarithmic standard deviation extensive` | — | Dispersion at Extensive damage state |
+| `Median complete damage` | g | Median IM capacity at Complete damage state |
+| `Logarithmic standard deviation complete` | — | Dispersion at Complete damage state |
 
 ---
 
 ## Fragility Groups
 
-18 groups are defined by occupancy type and number of stories:
+18 groups defined by occupancy type and number of stories:
 
 | Group ID | Occupancy | Stories | HAZUS Class | No. Models |
 |----------|-----------|---------|-------------|------------|
@@ -85,17 +87,6 @@ Damage states follow the HAZUS pre-code C3 classification, defined by inter-stor
 | DS2 | Moderate | 0.500% | 0.335% |
 | DS3 | Extensive | 1.200% | 0.804% |
 | DS4 | Complete | 2.800% | 1.876% |
-
----
-
-## Intensity Measures
-
-Two IMs are provided:
-
-- **PGA** (Peak Ground Acceleration, in g): suitable for low-rise buildings and regional loss applications
-- **SA(T1)** (Spectral Acceleration at fundamental period T1, in g): the primary IM used in the MSA/MLE analysis, providing lower dispersion for taller buildings
-
-The fundamental period T1 for each building is recorded in `pushover_curves/modal_properties.csv` (mode 1x).
 
 ---
 
